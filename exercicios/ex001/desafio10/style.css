@@ -1,0 +1,130 @@
+header {
+    background-image: linear-gradient(to bottom, #3DDC84 , #2FA866 -7%, #063D1E 70%);
+    width: auto;
+    height: auto;
+    margin: -20px;
+    padding: 2px;
+}
+nav {
+    text-align: left;
+    text-decoration-color: transparent;
+    padding: 16px;
+    
+}
+
+div {
+    width: 400px;
+    height: 45px;
+    
+}
+
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    background-color: transparent;   
+    
+}
+
+
+h1.especial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+p.especial {
+    font-family:Arial, Helvetica, sans-serif
+}
+.especial {
+    margin: 20px;
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+}
+
+code {
+    font-family:'Times New Roman', Times, serif;
+    margin: 5px ;
+    padding: 9px ;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    
+}
+a:hover {
+    color: #063D1E;
+    
+}
+code:hover {
+    background-color: #0f924893;
+    
+}
+
+main {
+    width: auto;
+    height: auto;
+    background-color: rgba(255, 255, 255, 0.144);
+    box-shadow: 0px 3px 5px 1px black;
+    padding: 0px 10px 10px 10px;
+    margin: 1px 95px;
+
+    
+    
+}
+main > h1 {
+    color: #063D1E;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+main > p {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+main > h2 {
+    color: #063D1E;
+    background-image: linear-gradient(to right, #03a84a, #c6ff4c91, rgba(255, 255, 255, 0.411));
+}
+
+.negritofundo {
+    background-color:#03a84a;
+    padding: 2px;
+}
+
+
+.linksite {
+    color: #063D1E;
+}
+
+.corescura {
+    color: #057937;
+}
+
+
+.robo {
+   text-align: center;
+}
+
+.pessoarobo {
+    text-align: center;
+}
+
+.video {
+    margin: 10px;
+    color: #063D1E;
+}
+
+
+section > h2 {
+    background-color: #063D1E;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    border-radius: 20px 20px 0px 0px;
+    
+}
+section > p {
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    ;
+    background-color: #03a84a;
+}
